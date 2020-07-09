@@ -17,13 +17,14 @@ Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182) -->
       </ul>
 
 <h3> Chapter 13: Boxes</h3>
-      <ul>CSS treats HTML elements like it lives in its own box, and you can control: dimensions, borders, margins, padding, show/hide boxes. 
-      <ul>Box dimensions: width, height. Default size is just big enough to hold contents. Can specify size with pixels, ems (based on the size of the text within it), or percentages (as relates to the browser).
-      <ul>min-width, max-width: useful tools for ensuring legibility. Can be done with  min-height and max-height also.
-      <ul>overflow: when content is larger than the box. can be: hidden (simply hides extra content), scroll (adds a scrollbar).
-      <ul>can make boxes hidden with visibility: hidden. a blank space will appear in its place.
-      <ul>Block-level boxes can be made into inline boxes, and inline boxes can be made into block-level boxes.
-      <ul>CSS# has introduced the ability to create image borders and rounded borders. 
+      <li>CSS treats HTML elements like it lives in its own box, and you can control: dimensions, borders, margins, padding, show/hide boxes. 
+      <li>Box dimensions: width, height. Default size is just big enough to hold contents. Can specify size with pixels, ems (based on the size of the text within it), or percentages (as relates to the browser).
+      <li>min-width, max-width: useful tools for ensuring legibility. Can be done with  min-height and max-height also.
+      <li>overflow: when content is larger than the box. can be: hidden (simply hides extra content), scroll (adds a scrollbar).
+      <li>can make boxes hidden with visibility: hidden. a blank space will appear in its place.
+      <li>Block-level boxes can be made into inline boxes, and inline boxes can be made into block-level boxes.
+      <li>CSS# has introduced the ability to create image borders and rounded borders. 
+      </ul>
 
 <h1> READING NOTES</h1>
   <h2>JAVASCRIPT & JQUERY // JON DUCKETT</h2>  
