@@ -42,10 +42,18 @@ Article: “6 Reasons for Pair Programming” -->
     <h3> Chapter 3: Functions, Methods, and Objects (pp 86-99)</h3>
       <ul>
       <li>Browsers require detailed instructions (complex scripts can run thousands of lines). Functions organize this code.
-      <li>Function 
+      <li>Functions: calling the function, parameters, return value.
+      <li>Declare and call a function.
+      <li>Functions allow you to group a set of related statements together to represent a single task.
+      <li>Functions can take parameters (information required to do their jobs) and may return a value.
       </ul>
 
   <h2>6 Reasons For Pair Programming by Allie Grampa</h2>  
       <ul>
-      <li>
+      <li>Pair programming is a style of programming with a Driver and a Navigator. 
+      <li> Has: greater efficiency, produces higher-quality code, allows for more creativity. 
+      <li> Engaged collaboration: prevents procrastinating or getting off track.
+      <li> Learn from fellow students: improves social skills and communication.
+      <li> Job interview readiness: this is a common test for jobs. Must be able to work with a team.
+      <li> Work environment readiness!
       </ul>
