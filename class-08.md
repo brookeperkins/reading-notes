@@ -1,30 +1,24 @@
 <h1> READING NOTES</h1>
-  <h2>HTML & CSS // JON DUCKETT</h2>  
-    <h3> Chapter 6: Tables</h3>
-      <ul>
-        <li>Creating tables.
-        <li>What info is best for tables.
-        <li>Representing complex data in tables.
-        <li>There are several types of information that need to be displayed in a grid or table.
-        <li>Use the four key elements for creating tables.
-        <li>Represent complex data using tables.
-        <li>Add captions to tables.
-        <li>Basic Table Structure:< table> < tr> < td>
-        <li>< th > for table headings.
-        <li>Spanning Columns and Rows, Long Tables: < thead> < tbody> < tfoot>
-        </ul>
-
-<h1> READING NOTES</h1>
-  <h2>JAVASCRIPT & JQUERY // JON DUCKETT</h2>  
-    <h3> Chapter 3: Functions, Methods, and Objects</h3>
-      <ul>
-        <li>Create objects using constructor syntax (hotel.name hotel.rooms hotel.booked)
-        <li>"This" (keyword) is commonly used inside functions and objects.  
-        <li>Where the function is declared alters what THIS means, but always refers to one object, usually the object in which the function operates.
-        <li>Arrays are a special type of object.
-        <li>You can combine arrays and objects to create complex data structures.
-        <li>Arrays can store a series of objects.
-        <li>Objects can also hold arrays as values of their properties.
-        <li>Built-in Objects: Browser Object Model, Document Object Model, Global JavaScript Objects.
-        <li>Global Math Objects: PI(), round(), sqrt (), ceil (), floor (), random ().
-        </ul>
+  <h2>The Past, Present, and Future of Local Storage for Web Applications</h2>
+    <h3>https://diveinto.html5doctor.com/storage.html</h3>
+    
+<ul>
+    <li>Native client application (appstore) vs web applications (apps accessible through browser).
+    <li>Persistent local storage gives native client apps an edge over web apps. 
+    <li>If the app needs more than key/value pairs, you can create your own database, file formats, etc. 
+</ul>
+<br>
+<ul>
+<li><strong>COOKIES</strong> used to store small amounts of data in persistent local storage. 
+<li>Cookie downsides: included with every HTTP request and transmitting the same data over and over, making the web app slower. 
+<li>Sends encrypted data when HTTP request (unless app is served over SSL)
+<li>Cookie data is limited to approximately to 4kb. 
+<li><strong>IDEAL SITUATION</strong> is: Lots of storage space, located on the client, data stays even with page refresh, and data is not transmitted to the server.
+<li><strong>Local Storage Hacks Before HTML5</strong>: 
+<li>IE, Microsoft DHTML Behaviors - userData
+<li>2002 Adobe - Flash 6 (Local Shared Objects aka flash cookies)
+<li>2006 Google Gears - open sourced browser plugin - after user permission, Gears can stored unlimited amounts of data per domain in SQL database tables. 
+<li>HTML5: standardized API that natively and consistently works across multiple browsers without 3rd party plugins. 
+<li>HTML5 uses localStorage - need to check for HTML storage first. 
+<li>HTML5 storage can be used to save games progress. 
+<li>Web SQL Database lets you do things like with backend database programming but with JavaScript. There are many types of SQL.
