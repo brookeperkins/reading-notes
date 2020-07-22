@@ -103,12 +103,12 @@
 </ul>
 
 <h2>Drawing Text</h2>
-<h3>https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text<h3>
+<h3>https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text</h3>
 
 <ul>
 <li>fillText used to make solid text:
 </ul>
-    //solid "Hello world".
+    //solid "Hello world"
     function draw() {
     var ctx = document.getElementById('canvas').getContext('2d');
     ctx.font = '48px serif';
