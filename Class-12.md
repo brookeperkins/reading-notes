@@ -84,7 +84,7 @@
 </ul>
 
 <h2>Applying Styles and Colors<h2>
-<h3>https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors<h3>
+<h3>https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors</h3>
 
 <ul>
 <li>Colors, line styles, gradients, patterns, and shadows!
