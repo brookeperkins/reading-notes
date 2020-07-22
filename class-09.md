@@ -17,7 +17,6 @@
        <li>or a submit button use < input type ="submit"> the value will be the text that appears on the button
         <li>to make an image be the submit button use < input type="image">
         <li>each form control should have a <label> element with it
-        <li>can either wrap the form control or be seperate from it and use the for attribute: <label for="cat input">Input your cat here!</label>
         <li>to group form elements you can use <fieldset> which groups the elements together with a line around the edge and then <legend> which comes directly after the fieldset tag and contains a caption which helps id the purpose of that group of form controls
         <li>can also specify type of info to be input like date, email, url
         <li>type="search"makes a specific search input and placeholder allows you to have text in that search area until someone types something in it
