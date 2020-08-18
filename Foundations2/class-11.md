@@ -45,8 +45,8 @@ SELECT BOX:
 
 VALIDATION:
 <ul>
-<li>Add < span class="tick"></ span> under each input in the fieldset (ex. email and telephone)
+<li>Add < span class="tick"></ span> under each input in the fieldset 
 <li>When the field is valid, use pseudo class.
-<li>input[type="email"]:valid - target valid input field of type email
+<li>input field of type email
 <li>Add styles
 <li>Target valid inputs with tick span 
