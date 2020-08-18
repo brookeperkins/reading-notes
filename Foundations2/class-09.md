@@ -5,6 +5,7 @@
 <li>INNER JOIN is just JOIN
 <li>OUTER JOINS OUTER, LEFT OUTER JOIN and LET JOIN
 <li>SELECT DISTINCT vs DISTINCT (different): only returns the building but without duplicating
+</ul>
 
 ## Database Normalization (Explained in Simple English) https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/
 
@@ -32,6 +33,7 @@
 <ul>
 <li>INNER JOIN, LEFT JOIN, RIGHT JOIN, OUTER JOIN, LEFT JOIN EXCLUDING INNER JOIN, RIGHT JOIN EXCLUDING INNER JOIN, OUTER JOIN EXCLUDING INNER JOIN
 <li>Two circles overlapping in the middle
+</ul>
 
 ## Chapter 11: Understanding Joins -- wow so did not read all of this
 <ul>
